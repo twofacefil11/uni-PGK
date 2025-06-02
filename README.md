@@ -7,3 +7,4 @@ npx vite
 ```
 if you have it.
 
+![Demo](demo.gif)
